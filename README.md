@@ -4,6 +4,8 @@
 >
 > Having worked on few personal projects, I would love to be a part of Open Source Projects. 
 >
-> I also keep working on my Data Strcutures and Algorithms skills and based on the knowledge so far I am trying to build an extensive [Data Structures and Algorithms Repository on Github](https://github.com/tabassum-khan/Data-Structures-and-Algorithms). I am open to contributions to the project. 
+> Also love solving problems and thus keep participating in Competitive Programming. Based on my knowledge so far, I am trying to build an extensive [Data Structures and Algorithms Repository on Github](https://github.com/tabassum-khan/Data-Structures-and-Algorithms). I am open to contributions to the project. 
+> 
+> I also like to write on Technology and have contributed to GeeksforGeeks and currently post articles on Medium. You can check out my [Medium Profile](https://medium.com/@tabassum_k).
 
 To know more about me, you can visit my [portfolio](https://tabassumkhan.netlify.app/) or my [LinkedIn](https://www.linkedin.com/in/tabassum-khan/) profile.
